@@ -1953,11 +1953,6 @@ body {
 .cid-rysWuIB7ns .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rysWb3ZFls {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/-960x715.jpg");
-}
 .cid-rysT93nYL9 {
   background: #ffffff;
 }
@@ -2011,6 +2006,29 @@ body {
 }
 .cid-rysUrkPQjZ .mbr-section-subtitle {
   color: #767676;
+}
+.cid-ryt3TwqR5W {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-ryt3TwqR5W .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ryt3TwqR5W .section-text {
+  padding: 2rem 0;
+}
+.cid-ryt3TwqR5W .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ryt3TwqR5W .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rysUCik3Ce {
   padding-top: 60px;
